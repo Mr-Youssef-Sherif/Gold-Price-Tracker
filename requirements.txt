@@ -1,0 +1,9 @@
+beautifulsoup4
+lxml
+pandas
+numpy
+matplotlib
+python-telegram-bot
+openpyxl
+requests
+asyncio
