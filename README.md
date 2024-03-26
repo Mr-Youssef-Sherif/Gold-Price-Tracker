@@ -43,6 +43,10 @@ Gold Price Seeker relies on publicly available gold price data, which it accesse
 
 Contributions to the Gold Price Seeker project are welcome! If you have suggestions for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request.
 
+## Contact
+
+For any inquiries or assistance, you can reach out to the author, Youssef Sherif, via email at mister.youssef.sherif@gmail.com.
+
 ## License
 
 This project is available under the GNU License. Feel free to use, modify, and distribute the code as you see fit.
